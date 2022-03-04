@@ -1,3 +1,7 @@
+---
+title: Hello
+---
+
 # Manuals and User Guides for Revolectrix
 
 Revolectrix (FMA, Inc) is [gone](https://www.rcgroups.com/forums/showpost.php?p=47671219&postcount=1). This is an unofficial mirror with documentations and users guides of their chargers and other products.
