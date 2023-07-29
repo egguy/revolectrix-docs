@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<list>
+  <firmware id="2230" date="9 May 2016">
+    <version>V2.23</version>
+    <file>GT1200v2230.hex</file>
+    <description>
+First Production Version.</description>
+  </firmware>
+  <firmware id="2250" date="8 Sep 2016">
+    <version>V2.25</version>
+    <file>GT1200v2250.hex</file>
+    <description>
+1) Fixed 1s cycle issue.</description>
+  </firmware>
+  <firmware id="2270" date="17 Oct 2016">
+    <version>V2.27</version>
+    <file>GT1200v2270.hex</file>
+    <description>
+1) Fixed display issue in Nixx charge termination setting.\r\n
+2) Changed balancing behavior during discharge - balancing now starts below Balance Start V.</description>
+  </firmware>
+  <firmware id="2290" date="7 Feb 2017">
+    <version>V2.29</version>
+    <file>GT1200v2290.hex</file>
+    <description>
+1) Fixed display bugs.\r\n
+2) Changed fan operation to temperature controlled.\r\n
+3) Added parallel charge/discharge option.</description>
+  </firmware>
+  <firmware id="2310" date="8 Dec 2017">
+    <version>V2.31</version>
+    <file>GT1200v2310.hex</file>
+    <description>
+1) Added Ioniq Mode for LiPos.\r\n
+2) Added parallel mode option for LiHV.\r\n
+3) Fixed change amp bugs (parallel mode) in Li Unbalanced Charge and Regenerative Discharge.\r\n
+4) Changed Battery Status and Cell IR Info to display single pack status in parallel mode.\r\n
+5) When error occurs, pressing Back goes to status info screen instead of main screen.\r\n
+6) Added 14.4V - 24.0V range in Regen V. Max setting.\r\n
+7) Increased supply noise filtering when charging at low currents.\r\n
+8) Changed supply high error message to appear at 31V instead of 30V.</description>
+  </firmware>
+  <firmware id="2320" date="2 Dec 2018">
+    <version>V2.32</version>
+    <file>GT1200v2320.hex</file>
+    <description>
+1) Fixed termination amps issue during parallel charge.</description>
+  </firmware>
+</list>
