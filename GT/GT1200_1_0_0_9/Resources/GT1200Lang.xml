@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<list>
+  <language id="01">
+    <name>English</name>
+  </language>
+  <language id="02">
+    <name>German</name>
+  </language>
+  <language id="03">
+    <name>Czech</name>
+  </language>
+  <language id="04">
+    <name>Bahasa Indonesia</name>
+  </language>
+</list>
